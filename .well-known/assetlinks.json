@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.tecocraft.scanner",
+    "sha256_cert_fingerprints": [
+      "FB:64:73:6F:04:1F:F4:07:71:43:91:91:CD:27:41:4E:3E:05:C2:8A:08:4A:08:56:14:75:EF:1B:15:71:09:54"
+    ]
+  }
+}]
